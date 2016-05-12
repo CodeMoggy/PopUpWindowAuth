@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
+  <Id>fdfe4a1c-e00a-4b70-9000-af46abf894a3</Id>
+  <Version>1.0.0.0</Version>
+  <ProviderName>CodeMoggy</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="Connect to O365 API " />
+  <Description DefaultValue="Connect to O365 API from an Excel Addin."/>
+  <IconUrl DefaultValue="~remoteAppUrl/Images/money3232.png" />
+  <HighResolutionIconUrl DefaultValue="~remoteAppUrl/Images/money6464.png" />
+  <AppDomains>
+    <AppDomain>https://login.microsoftonline.com</AppDomain>
+  </AppDomains>
+  <Hosts>
+    <Host Name="Workbook" />
+  </Hosts>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="~remoteAppUrl/AddIn/Index.html" />
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>

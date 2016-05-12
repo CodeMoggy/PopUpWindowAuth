@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <GeneratedFeatureId>9bc04f53-59e0-4fd1-b8c3-d640b55baa6f</GeneratedFeatureId>
+    <GeneratedPackageId>fa901123-460c-47e7-b871-86d65f579c91</GeneratedPackageId>
+    <GeneratedModuleId>{9ae00b4f-dfff-46ec-969f-a8e7a1271f7f}</GeneratedModuleId>
+    <GeneratedListId>{df70ff28-0066-4ef8-addf-ebae17336619}</GeneratedListId>
+    <GeneratedProductId>{e8b10646-b2d2-4f48-a943-89c8a0ba8421}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>bIQ9X98Jz1cjpDFTjy4I/5hDcJ6R8ivkH7Z9SFOa7kI=</GeneratedClientSecret>
+    <OfficeAndSharePointStartAction>OfficeDesktopClient</OfficeAndSharePointStartAction>
+    <SharePointSiteUrl>https://moggyinc.sharepoint.com/</SharePointSiteUrl>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2016-05-12T21:12:17.3104552Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>0e94394c-bae4-43cb-b555-445385006d5c</AppInstanceId>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

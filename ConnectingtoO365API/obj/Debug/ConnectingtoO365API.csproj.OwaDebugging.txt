@@ -1,0 +1,7 @@
+False
+9bc04f53-59e0-4fd1-b8c3-d640b55baa6ffa901123-460c-47e7-b871-86d65f579c91
+{9ae00b4f-dfff-46ec-969f-a8e7a1271f7f}{df70ff28-0066-4ef8-addf-ebae17336619}
+{e8b10646-b2d2-4f48-a943-89c8a0ba8421}
+1.0.0.0
+ConnectingtoO365API
+_layouts/15/

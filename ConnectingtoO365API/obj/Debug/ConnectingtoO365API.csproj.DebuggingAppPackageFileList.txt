@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ConnectingtoO365APIManifest.xml
+C:\Source\Repos\bloggit\PopUpWindowAuth\ConnectingtoO365API\bin\Debug\ConnectingtoO365API.debugapp
